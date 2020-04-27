@@ -2,7 +2,7 @@
 	"name": "SharpShooter",
 	"desc_short": "SharpShooter",
 	"desc_long": "SharpShooter<br>",
-	"compatitle": "iOS 11, 12 and 13",
+	"compatitle": "iOS 11,12,13",
 	"changelog": "<strong>2.0.6</strong><br>Support iOS 12, 13.<br>+ Initial Release.<br>",
 	"open": true,
 }
